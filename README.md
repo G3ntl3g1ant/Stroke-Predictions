@@ -1,4 +1,4 @@
-# Stroke Predictions/Spanish Wine
+# Stroke Predictions
 ## (Description)
 #### Author: Kai Dawson-Fischer
 ### (Question of Target, Catch reader)
