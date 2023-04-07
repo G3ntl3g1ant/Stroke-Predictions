@@ -8,6 +8,7 @@ Data Source:
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 Data Dictionary:
+[Stroke Predictions Data Dictionary](https://user-images.githubusercontent.com/117219099/230604916-966c98ec-bc5a-48ce-b765-d36c5d8c1da6.png)
 
 ## Methods
 
