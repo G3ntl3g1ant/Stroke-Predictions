@@ -47,8 +47,7 @@ The final model that was chosen was the KNeighbors Model
            1       0.15      0.38      0.21        80
 
     accuracy                           0.83      1272
-   macro avg       0.55      0.62      0.56      1272
-weighted avg       0.90      0.83      0.86      1272
+
 
 With the scores of 0.38 for recall and 0.21 for f1-score, this was the best model by far. 
 
