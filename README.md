@@ -1,7 +1,7 @@
 # Stroke Predictions
-## (Description)
+## A Dataset of Patients Information with General Information and whether they have had a Stroke or Not.
 #### Author: Kai Dawson-Fischer
-### (Can strokes victims predict that they are going to suffer from a stroke before it even occurs?)
+### Can strokes victims predict that they are going to suffer from a stroke before it even occurs?
 
 ## Data 
 Data Source:
