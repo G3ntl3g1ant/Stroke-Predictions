@@ -1,10 +1,11 @@
 # Stroke Predictions
 ## (Description)
 #### Author: Kai Dawson-Fischer
-### (Question of Target, Catch reader)
+### (Can strokes victims predict that they are going to suffer from a stroke before it even occurs?)
 
 ## Data 
 Data Source:
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 Data Dictionary:
 
